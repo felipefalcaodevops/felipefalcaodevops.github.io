@@ -5,7 +5,7 @@ title: Styleguide
 permalink: /styleguide/
 ---
 
-<h1 class="text-center"> devlopr jekyll - Styleguide </h1>
+<h1 class="text-center"> felipe falcao - Styleguide </h1>
 
 <hr />
 

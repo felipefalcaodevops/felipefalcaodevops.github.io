@@ -1,6 +1,6 @@
 ### devlopr-jekyll - A Beautiful Jekyll Theme Built for Developers
 
-[![Gem Version](https://badge.fury.io/rb/devlopr.svg)](https://badge.fury.io/rb/devlopr)![workflow-badge](https://github.com/sujaykundu777/devlopr-jekyll/workflows/deploy/badge.svg)
+[![Gem Version](https://badge.fury.io/rb/devlopr.svg)](https://badge.fury.io/rb/devlopr)![workflow-badge](https://github.com/felipefalcaodevops/felipefalcaodevops.github.io/workflows/deploy/badge.svg)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4232ac2b-63e0-4c78-92e0-e95aad5ab8c3/deploy-status)](https://app.netlify.com/sites/devlopr/deploys)
 ![](https://ruby-gem-downloads-badge.herokuapp.com/devlopr?type=total&color=brightgreen&style=plastic)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
@@ -12,15 +12,15 @@ Highly Customizable and No Hosting or Maintainence Cost is required !
 
 ### [Installation Guide](https://devlopr.netlify.app/get-started)
 
-![devlopr jekyll](https://github.com/sujaykundu777/devlopr-jekyll/blob/master/assets/img/screenshot.PNG?raw=true)
+![Felipe Falcao](https://github.com/felipefalcaodevops/felipefalcaodevops.github.io/blob/master/assets/img/screenshot.PNG?raw=true)
 
 devlopr uses Markdown Files to generate data like Blog Posts, Gallery, Shop Products etc. No external database is required.
 
 ### Deploy your devlopr-jekyll blog - One Click Deploy
 
-[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/sujaykundu777/devlopr-jekyll)
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sujaykundu777/devlopr-jekyll)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sujaykundu777/devlopr-jekyll)
+[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/felipefalcaodevops/felipefalcaodevops.github.io)
+[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/felipefalcaodevops/felipefalcaodevops.github.io)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/felipefalcaodevops/felipefalcaodevops.github.io)
 
 ### Demo (Hosted Apps)
 
@@ -50,7 +50,7 @@ devlopr uses Markdown Files to generate data like Blog Posts, Gallery, Shop Prod
 #### Jekyll Admin
 You can easily manage the site locally using the Jekyll admin : [http://localhost:4000/admin](http://localhost:4000/admin)
 
-![Jekyll Admin](https://github.com/sujaykundu777/devlopr-jekyll/blob/master/assets/img/jekyll-admin.PNG?raw=true)
+![Jekyll Admin](https://github.com/felipefalcaodevops/felipefalcaodevops.github.io/blob/master/assets/img/jekyll-admin.PNG?raw=true)
 
 ## Recent Release Changes (v 0.4.6):
 
@@ -65,7 +65,7 @@ You can check out for all changelogs [here](https://www.buymeacoffee.com/p/57109
 
 ```s
 git remote -v
-git remote add upstream https://github.com/sujaykundu777/devlopr-jekyll.git
+git remote add upstream https://github.com/felipefalcaodevops/felipefalcaodevops.github.io.git
 git fetch upstream
 git checkout master
 git merge upstream/master
@@ -135,10 +135,10 @@ Thanks to all our Backers ! 🙏 [Become a Backer](https://opencollective.com/de
 
 ### For Help :
 
-You can contact me, if you need any help via [Email](mailto:sujaykundu777@gmail.com). If you like the project. Don't forget to :star: !
+You can contact me, if you need any help via [Email](mailto:felipegfalcao.si@gmail.com). If you like the project. Don't forget to :star: !
 
 ## Licence
 
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT). You can do anything you want, including projects for your clients, as long as you mention an attribution back (credit links in footer). See the [Licence](https://github.com/sujaykundu777/devlopr-jekyll/blob/master/LICENSE) file
+The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT). You can do anything you want, including projects for your clients, as long as you mention an attribution back (credit links in footer). See the [Licence](https://github.com/felipefalcaodevops/felipefalcaodevops.github.io/blob/master/LICENSE) file
 
 I understand that sometimes footer links or any links to external websites are not convenient, so you have the option to remove credits/footer links by becoming a [Backer](https://opencollective.com/devlopr-jekyll#backer).
