@@ -1,5 +1,5 @@
-title: Felipe Falcao DevOps
-subtitle: Divulgação de artigos
+title: Felipe Falcao
+subtitle: IT Monitoring | Infrastructure | DevOps | Cloud
 description: >- # this means to ignore newlines until "baseurl:"
 
 url: "https://felipefalcaodevops.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
@@ -29,7 +29,7 @@ author_bio: Olá, meu nome é Felipe Falcao:D
 author_email: "felipegfalcao.si@gmail.com"
 author_location: Brasil
 author_website_url: "https://felipefalcaodevops.github.io"
-typewrite-text: devlopr is a jekyll theme built for developers
+typewrite-text: Vamos automatizar TUDO !
 
 author_work_experiences:
             - company_name: Bemobi
